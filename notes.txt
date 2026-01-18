@@ -1,0 +1,1 @@
+critical section,mutex or mutal exclusion,race condtion,multiprocesing pool(tank-->6 core each works on difference process)
